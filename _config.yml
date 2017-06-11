@@ -10,7 +10,7 @@ url:                 https://qwtel.com
 
 # Set to '' when hosting a blog on GitHub Pages, ie on `//<username>.github.io`
 # Set to '/<reponame>' when using the `gh-pages` branch of a repository
-baseurl:             ''
+baseurl:             /hydejack
 
 # A very short description  of your page
 tagline:             A pretentious two-column Jekyll theme.
@@ -29,7 +29,7 @@ author:
   email:             f.klampfer@gmail.com
 
 # Fallback image and color if not overwritten
-image:               /assets/img/nap.jpg
+image:               /hydejack/assets/img/nap.jpg
 color:               '#4f86aa'
 
 # Remove to disable Google Fonts
