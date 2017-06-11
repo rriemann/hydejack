@@ -2,7 +2,7 @@
 layout: page
 title: Home
 menu: true
-order: 0
+order: 1
 ---
 
 ## Home
